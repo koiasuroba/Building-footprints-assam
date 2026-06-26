@@ -117,6 +117,13 @@ print(gdf.head())
 
 ---
 
+## Download the Data
+
+The extracted footprint files are too large to host directly on GitHub.
+Download the full dataset from Google Drive:
+
+📂 [Download Assam Building Footprints (Google Drive)] https://drive.google.com/drive/folders/1P5W2_lLY-2muSUO41Xr7sXKYw9dMjGrf?usp=sharing
+
 ## Attribution & License
 
 This project is released under the **MIT License** for the code and workflow.
